@@ -1,5 +1,5 @@
 import pymongo
-
+//mongdb
 from scrapy.conf import settings
 
 
